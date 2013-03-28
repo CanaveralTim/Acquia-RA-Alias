@@ -1,0 +1,7 @@
+# not needed with vars function
+echo $VCSPATH
+echo $SVNNAME
+echo $SVNPW
+echo "Acquia Drupal"
+
+
